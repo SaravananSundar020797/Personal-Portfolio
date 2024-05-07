@@ -1841,6 +1841,11 @@ a {
   font-size: 20px;
 }
 
+.commonImgSize {
+  max-width: 414px;
+  height: 311px;
+}
+
 * {
   margin: 0;
   padding: 0;
